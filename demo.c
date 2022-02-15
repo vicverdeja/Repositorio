@@ -1,0 +1,6 @@
+#incluide; <stdio.h>
+
+main {
+
+
+}
